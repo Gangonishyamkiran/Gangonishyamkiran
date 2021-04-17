@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning IoT 
 - 💞️ I’m looking to collaborate on python, DS
-- 📫 Reach me_shyamkirangangoni@gmail.com
+- 📫 Reach me shyamkirangangoni@gmail.com
 
 <!---
 Gangonishyamkiran/Gangonishyamkiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
